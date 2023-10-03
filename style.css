@@ -9,14 +9,14 @@
 
 /* External Styles */
 body {
-    background-color: #f0f0f0; /* baby pink */
+    background-color: #c5f3e8; /* baby pink */
 }
 
 .heading {
-    font-size: 36px; /* Increase heading font size */
-    color: #333; /* Dark gray text color */
+    font-size: 20px; /* Increase heading font size */
+    color: #130458; /* Dark gray text color */
 }
 
 .image {
-    max-width: 300px; /* Reduce image size to a maximum width of 300px */
+    max-width: 100px; /* Reduce image size to a maximum width of 200px */
 }
