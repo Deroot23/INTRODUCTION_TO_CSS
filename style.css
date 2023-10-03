@@ -1,0 +1,22 @@
+/* Internal Styles */
+.text {
+    font-size: 18px;
+}
+
+.list {
+    font-size: 16px;
+}
+
+/* External Styles */
+body {
+    background-color: #f0f0f0; /* baby pink */
+}
+
+.heading {
+    font-size: 36px; /* Increase heading font size */
+    color: #333; /* Dark gray text color */
+}
+
+.image {
+    max-width: 300px; /* Reduce image size to a maximum width of 300px */
+}
