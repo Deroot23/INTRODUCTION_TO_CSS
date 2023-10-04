@@ -1,10 +1,12 @@
 /* Internal Styles */
 .text {
-    font-size: 18px;
+    font-size: 17px;
+    color: rgb(172, 123, 105);
 }
 
 .list {
     font-size: 16px;
+    color: chocolate;
 }
 
 /* External Styles */
