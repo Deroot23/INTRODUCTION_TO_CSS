@@ -17,8 +17,8 @@ body {
 .heading {
     font-size: 20px; /* Increase heading font size */
     color: #130458; /* Dark gray text color */
-}
+} 
 
-.image {
+.image /* {
     max-width: 100px; /* Reduce image size to a maximum width of 200px */
-}
+} */
